@@ -6,7 +6,9 @@
 .codex/
 assessment/
 reference/
-courseware/
+courseware/AP-*
+courseware/FG-*
+courseware/assets/
 build/
 qa/
 archive/
@@ -15,4 +17,3 @@ __pycache__/
 *.pyc
 .venv/
 node_modules/
-/LG-*.md

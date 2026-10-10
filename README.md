@@ -10,7 +10,7 @@ Use Claude Cowork and Claude Code to turn market, customer and digital marketing
 | Registration | [View course details and register](https://www.tertiarycourses.com.sg/wsq-agentic-ai-for-market-research.html) |
 | Funding | Up to 70%. Eligibility and current terms apply. |
 | TSC | Market Research — ICT-SNM-3007-1.1 |
-| Package version | 14.0 |
+| Package version | Slides v15.0 (Claude house theme); Lesson Plan and Learner Guide v14.0 |
 
 ## About the course
 
@@ -52,7 +52,22 @@ Each activity includes its own guide PDF, prompts PDF and Markdown, mock data, a
 
 Work on copies of the supplied data. Claude features and account availability can change; the activity guides explain account-dependent boundaries and local alternatives. The local MCP protocol test does not establish a live Claude integration or connector authentication.
 
-The official slides, Learner Guide, Lesson Plan and trainer documents are distributed through the course Drive and LMS. This public repository contains the learner activity packages. Assessments, answer keys, reference ebooks, credentials and private build/QA tooling are excluded.
+## Public package contents
+
+| Item | Files |
+|---|---|
+| Trainer slides (v15.0) | [PPTX](courseware/WSQ%20-%20Master%20Trainer%20Slides%20-%20Agentic%20AI%20for%20Market%20Research%20-%20v15.0.pptx), [PDF](courseware/WSQ%20-%20Master%20Trainer%20Slides%20-%20Agentic%20AI%20for%20Market%20Research%20-%20v15.0.pdf) |
+| Lesson Plan (v14.0) | [DOCX](courseware/LP-Agentic%20AI%20for%20Market%20Research-v14.0.docx), [PDF](courseware/LP-Agentic%20AI%20for%20Market%20Research-v14.0.pdf) |
+| Learner Guide (v14.0) | [DOCX](courseware/LG-Agentic%20AI%20for%20Market%20Research-v14.0.docx), [PDF](courseware/LG-Agentic%20AI%20for%20Market%20Research-v14.0.pdf), [Markdown](LG-Agentic%20AI%20for%20Market%20Research.md) |
+| Activities | The 14 activity packages listed above |
+
+Each activity includes its own guide PDF, prompts PDF and Markdown, mock data, assets and local validation script. All datasets and organisations in the activities are fictional teaching examples. Generated images are illustrations; synthetic personas are hypotheses, never substitutes for a representative participant sample.
+
+Work on copies of the supplied data. Claude features and account availability can change; the activity guides explain account-dependent boundaries and local alternatives. The local MCP protocol test does not establish a live Claude integration or connector authentication.
+
+## Distribution boundary
+
+Assessments, answer keys, reference ebooks, credentials and private build/QA tooling are not published in this repository. Superseded versions are archived locally and not published.
 
 ## Provider
 
